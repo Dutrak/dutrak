@@ -1,8 +1,9 @@
-# **<div align="center">FERNANDO DUTRA</div>**  
-  
+# **FERNANDO DUTRA**  
+Desenvolvedor Front-end e Back-end, atualmente estudante da FATEC Bragança Paulista (FATEC BP)
 
-**Estudante na FATEC Bragança Paulista**  
-  
+<br/>
+
+**Informações**  
 
 - 🔭 Aqui você irá encontrar projetos feitos na faculdade, em cursos e projetos pessoais  
   
@@ -20,7 +21,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -37,7 +38,7 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -55,9 +56,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%"> 
-
-<br/>  
+</table>  
 
 
 ## Connect with me  
@@ -73,23 +72,12 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutrak&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutrak&hide_border=true&layout=compact" align="center" />  
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=dutrak&show_icons=true&count_private=true&hide_border=true" align="center" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=dutrak&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
+<br/>   
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dutrak&&style=flat-square)  
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
