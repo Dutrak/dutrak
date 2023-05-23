@@ -59,7 +59,7 @@ Desenvolvedor Front-end e Back-end, atualmente estudante da FATEC Bragança Paul
 </table>  
 
 
-## Connect with me  
+## Social
 <a href="https://github.com/https://github.com/dutrak" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -71,10 +71,10 @@ Desenvolvedor Front-end e Back-end, atualmente estudante da FATEC Bragança Paul
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutrak&hide_border=true&layout=compact" align="center" />  
+## Github Status  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutrak&hide_border=true&layout=compact&theme=transparent" align="center" />  
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=dutrak&show_icons=true&count_private=true&hide_border=true" align="center" />  
+<img src="https://github-readme-stats.vercel.app/api?username=dutrak&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" />  
 
 <br/>   
 
