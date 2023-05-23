@@ -1,8 +1,8 @@
 # **FERNANDO DUTRA**  
 Desenvolvedor Front-end e Back-end, atualmente estudante da FATEC Bragança Paulista (FATEC BP)
+<br/> 
+<br/> 
 
-
-<br/>
 
 ## Informações
 
@@ -66,21 +66,16 @@ Desenvolvedor Front-end e Back-end, atualmente estudante da FATEC Bragança Paul
 </a>  
   
 
-<br/>  
- 
+<br/> 
 <br/>
 
 
 ## Github Status  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutrak&hide_border=true&layout=compact&theme=transparent" align="center" />  
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=dutrak&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" />  
-
-<br/>   
-
-![Profile views counter](https://komarev.com/ghpvc/?username=dutrak&&style=flat-square)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutrak&hide_border=true&layout=compact&theme=transparent" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=dutrak&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" />  
 
 <br/>
+<br/> 
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dutrak/dutrak/blob/output/github-contribution-grid-snake.svg" />
