@@ -81,3 +81,5 @@ Desenvolvedor Front-end e Back-end, atualmente estudante da FATEC Bragança Paul
 ![Profile views counter](https://komarev.com/ghpvc/?username=dutrak&&style=flat-square)  
 
 <br/>
+  
+![snake gif](https://github.com/Dutrak/dutrak/blob/output/github-contribution-grid-snake.gif)
