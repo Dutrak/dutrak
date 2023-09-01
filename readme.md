@@ -9,7 +9,7 @@ Desenvolvedor Front-end e Back-end, atualmente cursando o 3° Semestre da FATEC 
 - 🔭 Aqui você irá encontrar projetos feitos na faculdade, em cursos e projetos pessoais  
   
 
-- 🌱 Atualmente estou aprendendo: Java / SQL / React-Native / Typescript  
+- 🌱 Atualmente estou aprendendo: Java / SQL / PHP / Typescript 
   
 
 - 🚀 Sempre buscando aprender além do infinito!  
