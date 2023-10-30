@@ -1,9 +1,6 @@
 # **FERNANDO DUTRA**  
 Desenvolvedor Front-end e Back-end, atualmente cursando o 3° Semestre da FATEC Bragança Paulista (FATEC BP)
 <br/> 
-<br/> 
-
-
 ## Informações
 
 - 🔭 Aqui você irá encontrar projetos feitos na faculdade, em cursos e projetos pessoais  
