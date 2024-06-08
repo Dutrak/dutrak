@@ -1,5 +1,5 @@
 # **FERNANDO DUTRA**  
-Desenvolvedor web, atualmente cursando o 4° Semestre da FATEC Bragança Paulista (FATEC BP)
+Desenvolvedor web, atualmente cursando o 4° Semestre da FATEC Jornalista Omair Fagundes de Oliveira (Bragança Paulista)
 <br/> 
 ## Informações
 
