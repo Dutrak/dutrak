@@ -1,12 +1,12 @@
 # **FERNANDO DUTRA**  
-Desenvolvedor Front-end e Back-end, atualmente cursando o 4° Semestre da FATEC Bragança Paulista (FATEC BP)
+Desenvolvedor web, atualmente cursando o 4° Semestre da FATEC Bragança Paulista (FATEC BP)
 <br/> 
 ## Informações
 
 - 🔭 Aqui você irá encontrar projetos feitos na faculdade, em cursos e projetos pessoais  
   
 
-- 🌱 Atualmente estou aprendendo: Java / SQL / Javascript / Typescript 
+- 🌱 Atualmente estou aprendendo: React | Typescript | NodeJS
   
 
 - 🚀 Sempre buscando aprender além do infinito!  
