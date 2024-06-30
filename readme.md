@@ -9,10 +9,8 @@ Desenvolvedor web, atualmente cursando o 4° Semestre da FATEC Jornalista Omair 
 - 🌱 Atualmente estou aprendendo: React | Typescript | NodeJS
   
 
-- 🚀 Sempre buscando aprender além do infinito!  
+- 🚀 Sempre buscando aprender cada vez mais!  
   
-
-- ⚡ Fun fact: Gosto de estudar ouvindo música  
 
 
 ### Skills
