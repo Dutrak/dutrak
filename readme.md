@@ -1,17 +1,11 @@
 # **FERNANDO DUTRA**  
-Desenvolvedor web, atualmente cursando o 6° Semestre da FATEC Jornalista Omair Fagundes de Oliveira (Bragança Paulista)
-<br/> 
+- Desenvolvedor web focado em backend/fullstack.
+- Formado em Análise e Desenvolvimento de sistemas pela FATEC Bragança Paulista
+  
 ## Informações
-
 - 🔭 Aqui você irá encontrar projetos feitos na faculdade, em cursos e projetos pessoais  
-  
-
 - 🌱 Atualmente focado em arquitetura e desenvolvimento de sistemas backend
-  
-
 - 🚀 Sempre buscando aprender cada vez mais!  
-  
-
 
 ## Skills
 <div>
@@ -35,17 +29,10 @@ Desenvolvedor web, atualmente cursando o 6° Semestre da FATEC Jornalista Omair 
 <a href="https://www.linkedin.com/in/fedutra" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
-<br/> 
-
 
 ## Github Status  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutrak&hide_border=true&layout=compact&theme=transparent" align="left" />  
 <img src="https://github-readme-stats.vercel.app/api?username=dutrak&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" />  
-
-<br/>
-<br/> 
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dutrak/dutrak/blob/output/github-contribution-grid-snake.svg" />
