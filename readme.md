@@ -31,7 +31,7 @@
 </a>  
 
 ## Github Status  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutrak&hide_border=true&layout=compact&theme=transparent" align="left" />  
+<img src="https://github-readme-stats-fn1fkpkae-fernando-dutras-projects-11eede23.vercel.app/api/top-langs/?username=dutrak&count_private=true&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" />  
 <img src="https://github-readme-stats.vercel.app/api?username=dutrak&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" />  
   
 <picture>
