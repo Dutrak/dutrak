@@ -29,13 +29,3 @@
 <a href="https://www.linkedin.com/in/fedutra" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-
-## Github Status  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutrak&hide_border=true&layout=compact&theme=transparent" align="left" />  
-<img src="https://github-readme-stats.vercel.app/api?username=dutrak&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" />  
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dutrak/dutrak/blob/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dutrak/dutrak/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Dutrak/dutrak/blob/output/github-contribution-grid-snake.svg" />
-</picture>
